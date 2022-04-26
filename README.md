@@ -1,0 +1,3 @@
+# CinemaManage
+Language: C#, Window Application <br/>
+In Project: SQL Server, OOP, 3-Layer Architecture . This project can be used to sell cinema ticket, manage anything which a cinema haves, from staff, customer to cinema room, movie, ticket, showtime,...
