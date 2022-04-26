@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{80CBC4CD-E173-4CA0-96C2-F2179CD1F41C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_New", "Setup_New\Setup_New.vdproj", "{9455B71B-8D48-45EB-AE9A-8FD9C2376CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CBC4CD-E173-4CA0-96C2-F2179CD1F41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CBC4CD-E173-4CA0-96C2-F2179CD1F41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CBC4CD-E173-4CA0-96C2-F2179CD1F41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CBC4CD-E173-4CA0-96C2-F2179CD1F41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9455B71B-8D48-45EB-AE9A-8FD9C2376CAE}.Debug|Any CPU.ActiveCfg = Debug
+		{9455B71B-8D48-45EB-AE9A-8FD9C2376CAE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCEC9427-4BBA-43E8-A03A-D9A531F8667A}
+	EndGlobalSection
+EndGlobal
